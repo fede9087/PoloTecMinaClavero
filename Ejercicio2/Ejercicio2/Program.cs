@@ -42,7 +42,6 @@ do
         Console.WriteLine("El numero que ingreso es muy grande. Intentelo otra vez");
     }
     //4) Si el numero ingresado es menor al número
-    // reparar termina el proceso pero muestra el mensaje probar otro metodo
     else if (numeroIngresado < numeroSecreto)
     {
         Console.WriteLine("El numero que ingreso es muy chico. Intentelo otra vez");
